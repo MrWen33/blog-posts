@@ -1,10 +1,9 @@
 ---
 title: dx12笔记(一)-基本概念
 date: 2021-09-05 12:34:47
-categories: directx12
-tags:
-- dx12
-thumbnail:
+category: directx12
+tag:
+  - dx12
 ---
 
 ## 基本概念

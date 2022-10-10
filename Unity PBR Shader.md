@@ -1,10 +1,10 @@
 ---
 title: Unity PBR Shader练习
 date: 2021-04-22 23:38:47
-tags: 
-- PBR
-- Unity
-categories: Graphic
+tag: 
+  - PBR
+  - Unity
+category: Graphic
 thumbnail: 
 ---
 

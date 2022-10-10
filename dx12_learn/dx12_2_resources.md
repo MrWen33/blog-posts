@@ -1,10 +1,9 @@
 ---
 title: dx12笔记(二)-资源的创建，上传与使用
 date: 2021-09-05 14:05:44
-categories: directx12
-tags:
-- dx12
-thumbnail:
+category: directx12
+tag:
+  - dx12
 ---
 
 
